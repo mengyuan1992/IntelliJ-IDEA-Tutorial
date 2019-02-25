@@ -22,7 +22,7 @@
  
 ![IntelliJ IDEA 运行之前的编译](images/xiii-b-befour-launch-1.jpg)
 
-> * 如上图所示，IntelliJ IDEA 默认在运行 JUnit 之前会先进行 `Make` 操作。
+> * 如 上图所示，IntelliJ IDEA 默认在运行 JUnit 之前会先进行 `Make` 操作。
 
 ![IntelliJ IDEA 运行之前的编译](images/xiii-b-befour-launch-2.jpg)
 
